@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Jean Claude</h1>
 - 🔭 I’m currently working on **My final project**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🔭 I’m currently looking a **job**
 
 - 💬 Ask me about **Reactjs, Nodejs,Express**
 
 - 📫 How to reach me **claudion3@gmail.com**
 
-- 📄 Know about my experiences [https://claudion3.github.io/My_profile/](https://claudion3.github.io/My_profile/)
+ <a href="https://claudion3.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
