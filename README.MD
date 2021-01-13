@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jean Claude</h1>
 - 🔭 I’m currently working at **Molecular Quantum Solutions**
 
-- 🔭 I’m currently learning **React Native**
+-🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Reactjs, Nodejs,Express**
 
