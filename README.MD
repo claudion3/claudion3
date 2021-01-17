@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **claudion3@gmail.com**
 
- ## <a href="https://claudion3.github.io/portfolio/" target="_blank">Portfolio</a>
+## <a href="https://claudion3.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
